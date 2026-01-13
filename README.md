@@ -1,4 +1,4 @@
-# minecraft-nobara-rpm
+# How do I install it?
 This package downloads the official Minecraft launcher file directly from this link:
 
 https://launcher.mojang.com/download/Minecraft.tar.gz
